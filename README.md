@@ -19,10 +19,10 @@ This project implements and compares multiple Convolutional Neural Network (CNN)
 
 | Architecture | Parameters | Key Strength | Test Accuracy |
 |---|---|---|---|
-| **VGG-19** | ~143M | Deep uniform architecture, best feature extraction | **97%** *(paper)* |
+| **VGG-19** | ~143M | Deep uniform architecture, best feature extraction | **94%** *(paper)* |
 | **DenseNet121** | ~8M | Dense connections, excellent gradient flow, fewer params | **93.44%** *(this repo)* |
 | ResNet | ~25M | Skip connections, handles very deep networks | 95% |
-| InceptionV3 | ~23M | Multi-scale feature capture | 94% |
+| InceptionV3 | ~23M | Multi-scale feature capture | 92% |
 | AlexNet | ~61M | Pioneering deep CNN architecture | 90% |
 | SqueezeNet | ~1.2M | Lightweight fire-module design | 88% |
 
